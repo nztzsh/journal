@@ -1,7 +1,7 @@
 +++
 date = '2026-01-06T20:54:05+05:30'
 draft = false
-title = 'Hello World'
+title = 'hello world'
 +++
 
 
@@ -19,7 +19,7 @@ either start working on items from that backlog or dump some of them. closure on
 
 i have been accumulating a wide variety of these to-dos and most of them have not made it past the thinking/ideating phase.
 thanks to ai and newly acquired 'adult money', i have ample of ways to procrastinate. always been a procrastinator.
-before starting anything, i keep on reserching ways to pursue the thing in the most optimal way possible, buying the right set of tools i need.
+before starting anything, i keep on researching ways to pursue the thing in the most optimal way possible, buying the right set of tools i need.
 thought it, bought it but still at zero day, something's missing for sure. probably something to do with me, no points for guessing.
 
 as i'm thinking about what it could be, i am noticing that in this act, in this very moment, i am working on an item from the list.
@@ -43,7 +43,7 @@ instead of half ass thinking about video ideas while i am actually doing somethi
 that's what i am gonna do next.
 
 anyways, i think that's enough writing for today. i think i will continue this.
-it is helping me clear my brain fog and this feels like the right kind od dopamine one should be having.
+it is helping me clear my brain fog and this feels like the right kind of dopamine one should be having.
 so i will continue these casual, therapeutic, self reflective writing sessions. 
 i might as well have an idea to give it a bit more structure.
 
