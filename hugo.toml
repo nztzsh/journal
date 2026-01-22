@@ -1,0 +1,23 @@
+baseURL = 'https://nztzsh.github.io/'
+languageCode = 'en-us'
+title = 'axioms for life'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  goToTop = true
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[params.author]
+  intro = "axioms for life"
+  avatar = "avatar.png"
+  name = "nitesh saxena"
+  description = "free flow reflective writings in the pursuit to establish axioms for navigating life with first-principles."
+
+
